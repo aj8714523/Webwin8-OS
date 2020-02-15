@@ -5,3 +5,8 @@
 最后，如果想要下载该源码，请你点个Star ：）<br><br>
 # 预览图片<br><br>
 ![预览图片](https://github.com/aj8714523/Webwin8-OS/blob/master/index.png)
+
+
+代码来源： https://github.com/DuJiu02/WebWindows<br>
+b站视频(看第二个)： https://www.bilibili.com/video/av82647603/<br>
+演示地址： http://www.grgbanking123.top/webwin8/<br>
